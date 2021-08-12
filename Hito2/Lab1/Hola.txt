@@ -1,4 +1,0 @@
-git status (para ver que cambios tengo en  i brach)
-git add . (Agrega todos los cambios hechos)
-git commit -m "Agregando un archivo Text"
-git push origin develop (manda los cmabios a github)
